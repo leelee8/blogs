@@ -2,9 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "my blogs",
     "description": "",
-    "home_page_url": "https://leelee8.github.io/blogs",
-    "feed_url": "https://leelee8.github.io/blogs/feed.json",
+    "home_page_url": "https://blogs.ourai.us.kg",
+    "feed_url": "https://blogs.ourai.us.kg/feed.json",
     "user_comment": "",
+    "icon": "https://blogs.ourai.us.kg/media/website/riAj5l5cdX.jpg",
     "author": {
         "name": "lee"
     },
