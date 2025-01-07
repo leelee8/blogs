@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>my blogs</title>
+    <link href="https://leelee8.github.io/blogs/feed.xml" rel="self" />
+    <link href="https://leelee8.github.io/blogs" />
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <author>
+        <name>lee</name>
+    </author>
+    <id>https://leelee8.github.io/blogs</id>
+
+</feed>
