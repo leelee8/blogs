@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://blogs.ourai.us.kg/sitemap.xml
+Sitemap: https://blog.yyds2.dpdns.org/sitemap.xml
